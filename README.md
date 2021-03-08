@@ -1,0 +1,2 @@
+# DarkPeremium
+script darkfb peremuim
